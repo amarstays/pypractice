@@ -19,6 +19,6 @@ class LetterFilter:
             res.extend(chr)      
         return "".join(res)
 
-# Test here
-#myObj = LetterFilter("onomatopoeia")
-#print(myObj.filter_vowels())
+#Test here
+# myObj = LetterFilter("onomatopoeia")
+# print(myObj.filter_vowels())
